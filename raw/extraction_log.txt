@@ -1,0 +1,59 @@
+WEB DATA EXTRACTION LOG
+============================================================
+
+Source URL: https://malevegadish.com/wp-json/wc/store/v1/products
+Extraction started: 2026-09-14 20:30:08.847506
+Extraction completed: 2026-09-14 20:33:51.015853
+
+EXTRACTION SUMMARY
+------------------------------------------------------------
+Pages processed: 33
+Successful pages: 33
+Failed pages: 0
+Records collected: 324
+Unique Product IDs: 324
+Total response time: 190.09 seconds
+
+VALIDATION RESULTS
+------------------------------------------------------------
+Expected records: 324
+Collected records: 324
+Record count validation: PASSED
+Duplicate Product ID validation: PASSED
+Price consistency validation: PASSED
+
+PAGE DETAILS
+------------------------------------------------------------
+Page 01 | Records: 10 | Response: 6.32s | Status: success
+Page 02 | Records: 10 | Response: 6.78s | Status: success
+Page 03 | Records: 10 | Response: 7.06s | Status: success
+Page 04 | Records: 10 | Response: 4.85s | Status: success
+Page 05 | Records: 10 | Response: 4.78s | Status: success
+Page 06 | Records: 10 | Response: 4.56s | Status: success
+Page 07 | Records: 10 | Response: 4.61s | Status: success
+Page 08 | Records: 10 | Response: 4.04s | Status: success
+Page 09 | Records: 10 | Response: 5.84s | Status: success
+Page 10 | Records: 10 | Response: 6.33s | Status: success
+Page 11 | Records: 10 | Response: 3.88s | Status: success
+Page 12 | Records: 10 | Response: 5.18s | Status: success
+Page 13 | Records: 10 | Response: 6.51s | Status: success
+Page 14 | Records: 10 | Response: 5.25s | Status: success
+Page 15 | Records: 10 | Response: 4.95s | Status: success
+Page 16 | Records: 10 | Response: 5.64s | Status: success
+Page 17 | Records: 10 | Response: 5.26s | Status: success
+Page 18 | Records: 10 | Response: 7.54s | Status: success
+Page 19 | Records: 10 | Response: 9.74s | Status: success
+Page 20 | Records: 10 | Response: 8.16s | Status: success
+Page 21 | Records: 10 | Response: 7.06s | Status: success
+Page 22 | Records: 10 | Response: 7.31s | Status: success
+Page 23 | Records: 10 | Response: 5.53s | Status: success
+Page 24 | Records: 10 | Response: 4.82s | Status: success
+Page 25 | Records: 10 | Response: 7.24s | Status: success
+Page 26 | Records: 10 | Response: 6.47s | Status: success
+Page 27 | Records: 10 | Response: 4.21s | Status: success
+Page 28 | Records: 10 | Response: 4.19s | Status: success
+Page 29 | Records: 10 | Response: 4.73s | Status: success
+Page 30 | Records: 10 | Response: 6.54s | Status: success
+Page 31 | Records: 10 | Response: 6.24s | Status: success
+Page 32 | Records: 10 | Response: 3.92s | Status: success
+Page 33 | Records: 04 | Response: 4.55s | Status: success
